@@ -10,7 +10,9 @@
   <img src="https://github.com/user-attachments/assets/6b140829-c554-4c0c-bbae-9cbf045f08f1"/>
   <br>
   <br>
+  <img src="https://github.com/user-attachments/assets/b4e12521-14ee-4f66-a20c-6539a7fa4786"/>
   somnia - 23 - she/they/it
+  <img src="https://github.com/user-attachments/assets/b4e12521-14ee-4f66-a20c-6539a7fa4786"/>
   <br>
   <br>
   no dni just don't be a weirdo

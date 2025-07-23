@@ -7,7 +7,7 @@
   <img src="https://github.com/user-attachments/assets/27ba1731-a56a-4248-9885-2cb87163a21c"/>
   <br>
   <br>
-  will add atabook & strawpage soon!
+  <a href="https://999.atabook.org/">atabook</a> | strawpage (still wip)
   <br>
   <br>
   no dni just don't be weird please

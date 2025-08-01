@@ -8,9 +8,6 @@
   <br>
   <br>
   <img src="https://github.com/user-attachments/assets/65064854-f541-48cb-9307-011dd47e00c7"/>
-  <a href="https://999.atabook.org/">atabook</a> | strawpage (wip)
+  <a href="https://999.atabook.org/">atabook</a> | <a href="https://ninehoursninepersonsninedoors.straw.page/">strawpage</a>
   <img src="https://github.com/user-attachments/assets/7b45f673-855f-436a-b8ab-77766d94611e"/>
-  <br>
-  <br>
-  no dni just don't be weird please
 </p>

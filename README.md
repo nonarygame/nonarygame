@@ -4,10 +4,10 @@
   <img src="https://github.com/user-attachments/assets/be2e9e14-5b20-41bd-8606-2859138fe36d"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3af33bc6-8cc2-4cb5-82d8-1939eefa14f4"/>
+  <img src="https://github.com/user-attachments/assets/0b727f98-1e36-41b0-98d5-548c1a3e9fd2"/>
   <br>
   <br>
-  <img src="https://github.com/user-attachments/assets/a51e1997-cad4-4d03-a7d5-123b20919570"/>
+  <img src="https://github.com/user-attachments/assets/1e78742d-64bc-4fa2-a364-69c2ca2c2655"/>
   <a href="https://999.atabook.org/">atabook</a> | <a href="https://ninehoursninepersonsninedoors.straw.page/">strawpage</a>
-  <img src="https://github.com/user-attachments/assets/3a3deadb-8296-4d5e-908f-159be3da426e"/>
+  <img src="https://github.com/user-attachments/assets/1e78742d-64bc-4fa2-a364-69c2ca2c2655"/>
 </p>

@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/51a3f1d8-8731-4b43-8999-f2fa66effdd1"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a7c47abe-fcd7-48e9-a016-d5c9baa8b541"/>
+  <img src="https://github.com/user-attachments/assets/1e51b63b-2a41-4a5a-b75e-699f260f8d08"/>
   <br>
   <img src="https://github.com/user-attachments/assets/22e70f0b-ed86-44c4-b83a-3c1cd812bfce"/>
   <a href="https://999.atabook.org/">atabook</a> ✧ <a href="https://ninehoursninepersonsninedoors.straw.page/">strawpage</a>

@@ -7,6 +7,6 @@
   <img src="https://github.com/user-attachments/assets/1e51b63b-2a41-4a5a-b75e-699f260f8d08"/>
   <br>
   <img src="https://github.com/user-attachments/assets/22e70f0b-ed86-44c4-b83a-3c1cd812bfce"/>
-  <a href="https://999.atabook.org/">atabook</a> ✧ <a href="https://ninehoursninepersonsninedoors.straw.page/">strawpage</a>
+  <a href="https://999.atabook.org/">atabook</a> ✧ <a href="https://rentry.co/joilant">rentry</a> ✧ <a href="https://ninehoursninepersonsninedoors.straw.page/">strawpage</a>
   <img src="https://github.com/user-attachments/assets/22e70f0b-ed86-44c4-b83a-3c1cd812bfce"/>
 </p>

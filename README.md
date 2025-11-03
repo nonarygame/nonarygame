@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/194a7fdc-7e63-42a0-a375-909ebef28c84"/>
-  <img src="https://komarev.com/ghpvc/?username=nonarygame&style=plastic&color=4FBF0F&label=HOLLY_JOLLIES"/>
+  <img src="https://komarev.com/ghpvc/?username=nonarygame&style=plastic&color=red&label=HOLLY_JOLLIES"/>
   <img src="https://github.com/user-attachments/assets/194a7fdc-7e63-42a0-a375-909ebef28c84"/>
 </p>
 <p align="center">
